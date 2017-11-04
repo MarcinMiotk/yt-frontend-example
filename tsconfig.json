@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "sourceMap": true,
+    "outFile": "out/hello.js"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "filesGlob":[
+    "./src/**/*.ts"
+  ]
+}
